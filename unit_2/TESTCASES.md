@@ -10,15 +10,13 @@ __Предусловие__
     <tr>
         <th>Шаги</th>
         <th>Ожидаемый результат</th>
-        <th>Ожидаемый результат</th>
     </tr>
     <tr>
         <td>Найти элемент счётчика СО2</td>
         <td>Cчётчик содержит число 0, содержит текст 'кг С02 не попало в атмосферу'</td>
-        <td>![ID1.png](https://github.com/Unga62/avito_test/blob/main/unit_2/output/ID1.png)</td>
     </tr>
 </table>
-![ID1.png](https://github.com/Unga62/avito_test/blob/main/unit_2/output/ID1.png)
+
 ## ID2 - Проверка отображения счётчика сохранённого объёма воды
 
 __Предусловие__
