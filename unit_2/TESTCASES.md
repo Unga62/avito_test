@@ -18,7 +18,7 @@ __Предусловие__
         <td>![ID1.png](https://github.com/Unga62/avito_test/blob/main/unit_2/output/ID1.png)</td>
     </tr>
 </table>
-
+![ID1.png](https://github.com/Unga62/avito_test/blob/main/unit_2/output/ID1.png)
 ## ID2 - Проверка отображения счётчика сохранённого объёма воды
 
 __Предусловие__
